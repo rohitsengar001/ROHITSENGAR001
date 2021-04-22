@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm ROHIT SENGAR</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitsengar001&label=Profile%20views&color=0e75b6&style=flat" alt="rohitsengar001" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsengar001" alt="rohitsengar001" /></a> </p>
+
 - 🔭 I’m currently working on **Blog platform and Educational solution**
 
 - 🌱 I’m currently learning **Angular, java and python**
@@ -18,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rohit-sengar-b64285177/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rohit-sengar-b64285177/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/13087121/rohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/13087121/rohit" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/rohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="rohit" height="30" width="40" /></a>
 <a href="https://instagram.com/rohitsengar001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="rohitsengar001" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rohit_1922mca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="rohit_1922mca" height="30" width="40" /></a>
 </p>
@@ -28,3 +32,9 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/buymeacoffee rohitsengar001"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee rohitsengar001" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohitsengar001&show_icons=true&locale=en&layout=compact" alt="rohitsengar001" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohitsengar001&show_icons=true&locale=en" alt="rohitsengar001" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohitsengar001&" alt="rohitsengar001" /></p>

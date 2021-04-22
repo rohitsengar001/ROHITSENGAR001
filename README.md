@@ -22,7 +22,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rohit-sengar-b64285177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="rohit-sengar-b64285177" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:13087121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="user:13087121" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13087121/rohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="13087121/rohit" height="30" width="40" /></a>
 <a href="https://instagram.com/rohitsengar3351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="rohitsengar3351" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/rohit_1922mca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="rohit_1922mca" height="30" width="40" /></a>
 </p>

@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/rohit-sengar-b64285177/](https://www.linkedin.com/in/rohit-sengar-b64285177/)
 
-- ⚡ Fun fact **I'm enthusiastic , deterministic and chaotic personality**
+- ⚡ Fun fact **I'm enthusiastic , deterministic and lionhearted personality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

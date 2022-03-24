@@ -21,10 +21,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rohit-sengar-b64285177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="rohit-sengar-b64285177" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/13087121/rohit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="13087121/rohit" height="30" width="40" /></a>
-<a href="https://instagram.com/rohitsengar3351" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="rohitsengar3351" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rohit_1922mca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="rohit_1922mca" height="30" width="40" /></a>
+
+<a href="https://linkedin.com/in/rohit-sengar-b64285177"><img src="https://user-images.githubusercontent.com/39033056/159908068-2b7af122-db69-4e74-a381-1e40cf694b80.png" alt="linkedInImage" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/13087121/rohit" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtsnwaCMjcKWH7PzD3tn6U-1DQQgWLx4Ib9qqZy3XPG3uda8d2Zl9c-nOJ1qYOMRzgB6k&usqp=CAU" height="30" width="40" /></a>
+<a href="https://instagram.com/rohitsengar3351" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/1200px-Instagram_logo_2016.svg.png" alt="rohitsengar3351" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rohit_1922mca" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/891/900/png-clipart-logo-hackerrank-where-s-weed-java-hacker-thumbnail.png" alt="rohit_1922mca" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -5,13 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohitsengar001" alt="rohitsengar001" /></a> </p>
 
-- 🔭 I’m currently working on **Blog platform and Educational solution**
+- 🔭 I’m currently working on **Agricultural Solution Based Applications**
 
-- 🌱 I’m currently learning **Angular, java and python**
+- 🌱 I'm learning **Javacript, Typescript, Angular ,NestJs (Nodejs Technology) ,Mongodb(NoSql) , PHP, MYSQL , DATA STRUCTURES , AWS EC2 & S3 BUCKET**
+- ❤️ Began my journey in web development with PHP, but my passion shifted to JavaScript and TypeScript. Embracing the dynamic world of frontend and backend scripting, I find joy in creating dynamic and interactive web applications, fueled by the versatility and power of these dynamic languages
 
-- 👨‍💻 All of my projects are available at [Hidden for security reason](Hidden for security reason)
+- 👨‍💻 All of my projects are available at [projects](https://www.linkedin.com/in/rohit-sengar-b64285177/details/projects/)
 
-- 💬 Ask me about **Angular and java**
+- 💬 Ask me about **MEAN STACK TECHNOLOGIES**
 
 - 📫 How to reach me **rohitsengar001@gmail.com**
 
